@@ -1,3 +1,5 @@
+
+
 to run code simply type node example.js in the root of the folder
 
 AMEX test assignment.
@@ -10,3 +12,5 @@ Example: The George Washington Bridge in New York City is one of the oldest brid
 Search Terms: Landmark City Bridge
 
 Result: bridge is a landmark. City
+
+Test
